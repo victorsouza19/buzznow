@@ -8,7 +8,7 @@
 
 </div>
 
->  An Android application (Kotlin based) that get data from News API and show to users.
+>  An Android application (Kotlin based) that fetches data from News API and show it to users.
 
 ## 📫 Contributing for BuzzNow
 
